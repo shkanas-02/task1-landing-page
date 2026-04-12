@@ -23,11 +23,7 @@ The goal of this task was to build a clean and responsive landing page using HTM
 
 ## 📷 Project Preview
 
-Landing page designed for a digital brand with responsive layout and smooth user experience.
-
-## 🌐 Live Demo
-
-(You can add your GitHub Pages link here)
+Landing page designed for a digital brand with responsive layout and smooth user experienc)
 
 ## 📚 Learning Outcome
 
